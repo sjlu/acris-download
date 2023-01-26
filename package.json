@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@json2csv/plainjs": "^6.1.2",
+    "csv-parser": "^3.0.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "mongoose": "^6.8.4"
+  }
+}
